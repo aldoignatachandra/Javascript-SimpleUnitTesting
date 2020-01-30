@@ -30,7 +30,7 @@
 #### Folder Server (With Express)
 
 1. Unit Testing End Point '/' (Check String Response)
-2. Unit Testing End Point '/user' (Check Member In Array of Object)
+2. Unit Testing End Point '/user' (Check Member In Array)
 3. Unit Testing End Point '/users' (Check Member In Array of Object)
 
 #### Folder Utils (Without Express)
