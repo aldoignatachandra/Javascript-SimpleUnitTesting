@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/chai-4.2.0-blue">
   <img src="https://img.shields.io/badge/mocha-7.0.1-brightgreen">
   <img src="https://img.shields.io/badge/supertest-4.0.2-purple">
+    <img src="https://img.shields.io/badge/nodemon-1.19.4-red">
 </p>
 
 <p align="justify">
